@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DSCC>
+	<tencc>Chung cu hiep phu</tencc>
+	<ngaythanhla>21/03/2004</ngaythanhla>
+	<diachi>216 Le Lam</diachi>
+
+	<!-- Households of type A -->
+	<giadinh loai="A">
+		<ten>Nguyen Van A</ten>
+		<diachi>Vuon Lai</diachi>
+		<socu>2</socu>
+		<somoi>20</somoi>
+		<nhakhau>4</nhakhau>
+	</giadinh>
+
+	<giadinh loai="A">
+		<ten>Tran Thi B</ten>
+		<diachi>123 Phan Dinh Phung</diachi>
+		<socu>10</socu>
+		<somoi>30</somoi>
+		<nhakhau>3</nhakhau>
+	</giadinh>
+
+	<giadinh loai="A">
+		<ten>Pham Van C</ten>
+		<diachi>789 Le Loi</diachi>
+		<socu>5</socu>
+		<somoi>25</somoi>
+		<nhakhau>5</nhakhau>
+	</giadinh>
+
+	<giadinh loai="A">
+		<ten>Le Thi D</ten>
+		<diachi>101 Hai Ba Trung</diachi>
+		<socu>15</socu>
+		<somoi>45</somoi>
+		<nhakhau>6</nhakhau>
+	</giadinh>
+	<giadinh loai="B">
+		<ten>Le Thi C</ten>
+		<diachi>456 Tran Hung Dao</diachi>
+		<socu>5</socu>
+		<somoi>25</somoi>
+	</giadinh>
+
+	<giadinh loai="B">
+		<ten>Pham Van D</ten>
+		<diachi>789 Le Duan</diachi>
+		<socu>8</socu>
+		<somoi>35</somoi>
+	</giadinh>
+	<giadinh loai="C">
+		<ten>Nguyen Van A</ten>
+		<diachi>Vuon Lai</diachi>
+		<socu>2</socu>
+		<somoi>20</somoi>
+		<nhakhau>2</nhakhau>
+	</giadinh>
+	<giadinh loai="B">
+		<ten>Tran Van E</ten>
+		<diachi>12 Nguyen Trai</diachi>
+		<socu>12</socu>
+		<somoi>50</somoi>
+	</giadinh>
+
+	<giadinh loai="B">
+		<ten>Nguyen Thi F</ten>
+		<diachi>34 Phan Chau Trinh</diachi>
+		<socu>20</socu>
+		<somoi>60</somoi>
+	</giadinh>
+	<giadinh loai="A">
+		<ten>Pham Van C</ten>
+		<diachi>789 Le Loi</diachi>
+		<socu>5</socu>
+		<somoi>25</somoi>
+		<nhakhau>5</nhakhau>
+	</giadinh>
+
+	<giadinh loai="C">
+		<ten>Le Thi D</ten>
+		<diachi>101 Hai Ba Trung</diachi>
+		<socu>15</socu>
+		<somoi>45</somoi>
+		<nhakhau>6</nhakhau>
+	</giadinh>
+</DSCC>
