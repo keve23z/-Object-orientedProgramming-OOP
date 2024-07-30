@@ -1,0 +1,13 @@
+E:\LuuDuLieuSinhVien\Dao_NguyenDao_KT1\Dao_Nguyen_Tuan05\Dao_Nguyen_Tuan05\bin\Debug\Dao_Nguyen_Tuan05.exe.config
+E:\LuuDuLieuSinhVien\Dao_NguyenDao_KT1\Dao_Nguyen_Tuan05\Dao_Nguyen_Tuan05\bin\Debug\Dao_Nguyen_Tuan05.exe
+E:\LuuDuLieuSinhVien\Dao_NguyenDao_KT1\Dao_Nguyen_Tuan05\Dao_Nguyen_Tuan05\bin\Debug\Dao_Nguyen_Tuan05.pdb
+E:\LuuDuLieuSinhVien\Dao_NguyenDao_KT1\Dao_Nguyen_Tuan05\Dao_Nguyen_Tuan05\obj\Debug\Dao_Nguyen_Tuan05.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\Dao_NguyenDao_KT1\Dao_Nguyen_Tuan05\Dao_Nguyen_Tuan05\obj\Debug\Dao_Nguyen_Tuan05.exe
+E:\LuuDuLieuSinhVien\Dao_NguyenDao_KT1\Dao_Nguyen_Tuan05\Dao_Nguyen_Tuan05\obj\Debug\Dao_Nguyen_Tuan05.pdb
+D:\Ky_03_2023_2024\Thuc_hanh_Huong_doi_tuong\Dao_Nguyen_Tuan05\Dao_Nguyen_Tuan05\bin\Debug\Dao_Nguyen_Tuan05.exe.config
+D:\Ky_03_2023_2024\Thuc_hanh_Huong_doi_tuong\Dao_Nguyen_Tuan05\Dao_Nguyen_Tuan05\bin\Debug\Dao_Nguyen_Tuan05.exe
+D:\Ky_03_2023_2024\Thuc_hanh_Huong_doi_tuong\Dao_Nguyen_Tuan05\Dao_Nguyen_Tuan05\bin\Debug\Dao_Nguyen_Tuan05.pdb
+D:\Ky_03_2023_2024\Thuc_hanh_Huong_doi_tuong\Dao_Nguyen_Tuan05\Dao_Nguyen_Tuan05\obj\Debug\Dao_Nguyen_Tuan05.csproj.AssemblyReference.cache
+D:\Ky_03_2023_2024\Thuc_hanh_Huong_doi_tuong\Dao_Nguyen_Tuan05\Dao_Nguyen_Tuan05\obj\Debug\Dao_Nguyen_Tuan05.csproj.CoreCompileInputs.cache
+D:\Ky_03_2023_2024\Thuc_hanh_Huong_doi_tuong\Dao_Nguyen_Tuan05\Dao_Nguyen_Tuan05\obj\Debug\Dao_Nguyen_Tuan05.exe
+D:\Ky_03_2023_2024\Thuc_hanh_Huong_doi_tuong\Dao_Nguyen_Tuan05\Dao_Nguyen_Tuan05\obj\Debug\Dao_Nguyen_Tuan05.pdb

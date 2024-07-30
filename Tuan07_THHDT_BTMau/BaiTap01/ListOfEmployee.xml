@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ListOfEmployee>
+	<CompanyName>Huu Hiep</CompanyName>
+	<Address>172 Le Duc Tho</Address>
+	<Establishment>15/06/1995</Establishment>
+	<Employee Category="Nhan vien san xuat">
+		<Id>NV001</Id>
+		<Name>Ngoc Tram</Name>
+		<YearOfBirth>1990</YearOfBirth>
+		<Sex>female</Sex>
+		<CoefficientsSalary>4.5</CoefficientsSalary>
+		<YearOfEmloyment>2010</YearOfEmloyment>
+		<DayOff>10</DayOff>
+	</Employee>
+	<Employee Category="Nhan vien kinh doanh">
+		<Id>NV002</Id>
+		<Name>Bao Ngoc</Name>
+		<YearOfBirth>2000</YearOfBirth>
+		<Sex>female</Sex>
+		<CoefficientsSalary>4.5</CoefficientsSalary>
+		<YearOfEmloyment>2011</YearOfEmloyment>
+		<Revenue>2000</Revenue>
+		<MinimalRevenue>2000</MinimalRevenue>
+	</Employee>
+	<Employee Category="Nhan vien san xuat">
+		<Id>NV003</Id>
+		<Name>Thiep Nguyen</Name>
+		<YearOfBirth>1996</YearOfBirth>
+		<Sex>male</Sex>
+		<CoefficientsSalary>3.5</CoefficientsSalary>
+		<YearOfEmloyment>2014</YearOfEmloyment>
+		<DayOff>1</DayOff>
+	</Employee>
+	<Employee Category="Nhan vien san xuat">
+		<Id>NV004</Id>
+		<Name>Toan Binh</Name>
+		<YearOfBirth>1989</YearOfBirth>
+		<Sex>male</Sex>
+		<CoefficientsSalary>0.5</CoefficientsSalary>
+		<YearOfEmloyment>2018</YearOfEmloyment>
+		<DayOff>4</DayOff>
+	</Employee>
+	<Employee Category="Nhan vien quan ly">
+		<Id>NV005</Id>
+		<Name>Van Anh</Name>
+		<YearOfBirth>1990</YearOfBirth>
+		<Sex>female</Sex>
+		<CoefficientsSalary>4.5</CoefficientsSalary>
+		<YearOfEmloyment>2010</YearOfEmloyment>
+		<Posision>Truong phong</Posision>
+		<PosisionCoefficient>4.0</PosisionCoefficient>
+	</Employee>
+	<Employee Category="Nhan vien san xuat">
+		<Id>NV006</Id>
+		<Name>Ngoc Anh</Name>
+		<YearOfBirth>1999</YearOfBirth>
+		<Sex>female</Sex>
+		<CoefficientsSalary>2.5</CoefficientsSalary>
+		<YearOfEmloyment>2022</YearOfEmloyment>
+		<DayOff>0</DayOff>
+	</Employee>
+	<Employee Category="Nhan vien kinh doanh">
+		<Id>NV007</Id>
+		<Name>Hai Nam</Name>
+		<YearOfBirth>1999</YearOfBirth>
+		<Sex>male</Sex>
+		<CoefficientsSalary>3.0</CoefficientsSalary>
+		<YearOfEmloyment>2022</YearOfEmloyment>
+		<Revenue>2000</Revenue>
+		<MinimalRevenue>6000</MinimalRevenue>
+	</Employee>
+	<Employee Category="Nhan vien san xuat">
+		<Id>NV008</Id>
+		<Name>Tran Nam</Name>
+		<YearOfBirth>1996</YearOfBirth>
+		<Sex>male</Sex>
+		<CoefficientsSalary>4</CoefficientsSalary>
+		<YearOfEmloyment>2024</YearOfEmloyment>
+		<DayOff>3</DayOff>
+	</Employee>
+	<Employee Category="Nhan vien kinh doanh">
+		<Id>NV009</Id>
+		<Name>Duc Trung</Name>
+		<YearOfBirth>2001</YearOfBirth>
+		<Sex>male</Sex>
+		<CoefficientsSalary>3.6</CoefficientsSalary>
+		<YearOfEmloyment>2020</YearOfEmloyment>
+		<Revenue>2000</Revenue>
+		<MinimalRevenue>1500</MinimalRevenue>
+	</Employee>
+	<Employee Category="Nhan vien kinh doanh">
+		<Id>NV010</Id>
+		<Name>Van Tu</Name>
+		<YearOfBirth>1992</YearOfBirth>
+		<Sex>male</Sex>
+		<CoefficientsSalary>2.5</CoefficientsSalary>
+		<YearOfEmloyment>2021</YearOfEmloyment>
+		<Revenue>2000</Revenue>
+		<MinimalRevenue>1000</MinimalRevenue>
+	</Employee>
+	<Employee Category="Nhan vien quan ly">
+		<Id>NV011</Id>
+		<Name>Nam Loi</Name>
+		<YearOfBirth>1999</YearOfBirth>
+		<Sex>male</Sex>
+		<CoefficientsSalary>3.5</CoefficientsSalary>
+		<YearOfEmloyment>2010</YearOfEmloyment>
+		<Posision>Pho phong</Posision>
+		<PosisionCoefficient>2.0</PosisionCoefficient>
+	</Employee>
+</ListOfEmployee>

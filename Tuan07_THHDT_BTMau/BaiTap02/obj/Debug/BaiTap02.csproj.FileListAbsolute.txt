@@ -1,0 +1,7 @@
+D:\Ky_03_2023_2024\Thuc_hanh_Huong_doi_tuong\BaiTapMau\Tuan07_THHDT_BTMau\BaiTap02\bin\Debug\BaiTap02.exe.config
+D:\Ky_03_2023_2024\Thuc_hanh_Huong_doi_tuong\BaiTapMau\Tuan07_THHDT_BTMau\BaiTap02\bin\Debug\BaiTap02.exe
+D:\Ky_03_2023_2024\Thuc_hanh_Huong_doi_tuong\BaiTapMau\Tuan07_THHDT_BTMau\BaiTap02\bin\Debug\BaiTap02.pdb
+D:\Ky_03_2023_2024\Thuc_hanh_Huong_doi_tuong\BaiTapMau\Tuan07_THHDT_BTMau\BaiTap02\obj\Debug\BaiTap02.csproj.AssemblyReference.cache
+D:\Ky_03_2023_2024\Thuc_hanh_Huong_doi_tuong\BaiTapMau\Tuan07_THHDT_BTMau\BaiTap02\obj\Debug\BaiTap02.csproj.CoreCompileInputs.cache
+D:\Ky_03_2023_2024\Thuc_hanh_Huong_doi_tuong\BaiTapMau\Tuan07_THHDT_BTMau\BaiTap02\obj\Debug\BaiTap02.exe
+D:\Ky_03_2023_2024\Thuc_hanh_Huong_doi_tuong\BaiTapMau\Tuan07_THHDT_BTMau\BaiTap02\obj\Debug\BaiTap02.pdb
